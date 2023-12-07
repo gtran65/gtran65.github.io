@@ -23,7 +23,7 @@ My GitHub page is http://github.com/gtran65
 
 * Lab 7
 
-    I really enjoyed the challenge of Lab 7, not only that but it's practicalicaty in solving a realistic problem
+    I really enjoyed the challenge of Lab 7, not only that but it's practicality in solving a realistic problem
     in the world. I know that the ability to automonus something as important as parking restrictions would be helpful
     to instutitions that need to enforce such restrictions, like Cal State Fullerton and their parking structures. More
     specific to computer science, this lab helped me learn how to utilize conditional pieces like while and if statements
